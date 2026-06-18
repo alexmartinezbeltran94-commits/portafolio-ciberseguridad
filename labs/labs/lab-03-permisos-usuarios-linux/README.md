@@ -36,3 +36,6 @@ Archivo crítico sin chown root	Usuario no privilegiado puede alterarlo	Transfer
 La auditoría de usuarios y permisos es la primera línea de defensa en Linux. Un atacante que logra crear un usuario con shell activo o modificar un archivo con permisos 777 puede mantener acceso persistente sin ser detectado fácilmente.
 
 📸 Evidencia
+
+<img width="1878" height="842" alt="image" src="https://github.com/user-attachments/assets/c5202272-4f84-4f62-af42-613d2a59d5e7" />
+
